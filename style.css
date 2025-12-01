@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+#app { max-width: 800px; margin: auto; }
+#timer { font-size: 18px; margin-bottom: 20px; }
+#navigation button { margin: 5px; padding: 10px; }
+.marked { background-color: yellow; }
